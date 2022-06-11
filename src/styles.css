@@ -1,0 +1,44 @@
+h1 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h3,
+a {
+  text-align: center;
+  position: center;
+}
+
+body {
+  background-image: linear-gradient(to right, #e9defa 0%, #fbfcdb 100%);
+
+  background-size: cover;
+  background-repeat: repeat;
+}
+
+.btn-empezar {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  font-size: 23px;
+  text-decoration: none;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: orangered;
+  color: black;
+  transition: 0.1s ease-in-out;
+}
+
+.btn-empezar:hover {
+  box-shadow: 0px 0px 5px;
+}
+
+.centrar {
+  margin-top: 77px;
+  text-align: center;
+}
+
+.pregunta {
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid black;
+}
