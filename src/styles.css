@@ -11,7 +11,6 @@ a {
 
 body {
   background-image: linear-gradient(to right, #e9defa 0%, #fbfcdb 100%);
-
   background-size: cover;
   background-repeat: repeat;
 }
